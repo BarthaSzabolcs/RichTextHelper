@@ -1,0 +1,18 @@
+{
+  "name": "com.barthaszabolcs.richtexthelper",
+  "version": "1.0.0",
+  "displayName": "RichText Helper",
+  "description": "This package contains a few extension methods for writing rich text with C#.\nUseful for writing more readable log messages.\nNothing Special, but can save you a few minutes. :)",
+  "keywords": [
+    "Richtext",
+    "Helper",
+    "Log"
+  ],
+  "author": {
+    "name": "Bartha Szabolcs",
+    "email": "barthaszabolcs.gamedevelopment@gmail.com",
+    "url": ""
+  },
+  "type": "library",
+  "unity": "2019.4"
+}

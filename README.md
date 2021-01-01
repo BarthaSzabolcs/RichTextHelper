@@ -1,2 +1,2 @@
-# UnityPackage-RichTextHelper
-This package contains a few extension methods for writing rich text with C#.
+# RichTextHelper
+A few extension methods for writing rich text with C#, in a form of a Unity package.
